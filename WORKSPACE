@@ -1,7 +1,7 @@
 git_repository(
     name = "io_bazel_rules_dotnet",
     remote = "https://github.com/bazelbuild/rules_dotnet.git",
-    tag = "0.0.3",
+    commit = "aca4b3703caea5170b925664935b0f503c65b3cc",
 )
 
 load(
