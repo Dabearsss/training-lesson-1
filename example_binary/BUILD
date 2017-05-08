@@ -4,6 +4,5 @@ csharp_binary(
     name = "hello_world",
     srcs = [
         "Program.cs",
-        "Properties/AssemblyInfo.cs",
     ],
 )
