@@ -5,4 +5,7 @@ csharp_binary(
     srcs = [
         "Program.cs",
     ],
+    deps = [
+      "//example_library:MessageGenerator",
+    ]
 )
